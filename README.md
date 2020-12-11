@@ -13,3 +13,6 @@ sudo depmod
 sudo modprobe veikk
 sudo make all install clean
 ```
+#### For more see
+https://www.youtube.com/watch?v=8ahR8RGj7xA
+https://github.com/jlam55555/veikk-linux-driver/issues/16
